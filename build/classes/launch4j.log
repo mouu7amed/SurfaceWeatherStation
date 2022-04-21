@@ -1,0 +1,27 @@
+
+
+Version:	3.13
+CmdLine:	C:\Users\EI Sayed\OneDrive\Documents\WeatherStationProject\src\app.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\EI Sayed\OneDrive\Documents\WeatherStationProject\src\.
+Java min ver:	1.000.002
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_271
+Check launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe (OK)
+Match:		1.008.000_271
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Development Kit\1.8.0_271
+Ignore:		1.008.000_271
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_271 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_271\bin\javaw.exe
+Launcher args:	-jar "C:\Users\EI Sayed\OneDrive\Documents\WeatherStationProject\src\app.exe"
+Args length:	77/32768 chars
+Exit code:	0

@@ -1,0 +1,66 @@
+.parent{
+    -fx-background-color: #ffffff;
+}
+
+.sidebar{
+    -fx-background-color: #333645;
+}
+
+.btns:hover{
+    -fx-cursor: hand;
+}
+
+.settings-pane{
+    -fx-border-color: #7C8184;
+    -fx-background-radius: 50px;
+    -fx-border-radius: 50px;
+    -fx-border-width: 1px 1px 1px 1px;
+}
+
+.ports-pane{
+    -fx-background-color: white;
+    -fx-background-radius: 15px;
+    -fx-border-radius: 15px;
+    -fx-border-color:  #00A2D3; 
+    -fx-border-width: 1px 1px 1px 1px;
+}
+
+.round-box{
+    -fx-background-radius: 100%;
+    -fx-border-radius: 100%;
+    -fx-border-width: 5px;
+}
+
+.tempretureCard{
+    -fx-background-color: rgba(255, 198, 108, 0.3);
+}
+
+.humidityCard{
+    -fx-background-color: #ffecd2;
+}
+.windSpeedCard{
+    -fx-background-color: #c2ffc2;
+}
+
+.windDirectionCard{
+    -fx-background-color: #a6ebff;
+}
+
+.distanceCard{
+    -fx-background-color: #c4cdf8;
+}
+
+.outputFields{
+    -fx-font-size: 14px;
+    -fx-font-weight: bold;
+    -fx-font-family:  Ebrima;
+}
+
+.outputFields:hover{
+    -fx-cursor: default;
+}
+
+.languageBtn{
+    -fx-cursor: hand;
+}
+
